@@ -1,0 +1,197 @@
+.bgccall{
+    background-color: white;
+}
+
+.btnshop{
+    background-color: rgb(227, 224, 224);
+    padding: 6px 20px;
+}
+.btnshop:hover{
+    background-color: lightgray;
+}
+.login{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.login:hover{
+    color: palevioletred;
+}
+.nav-link:hover{
+    color: palevioletred;
+}
+.section1{
+    color: rgb(3, 3, 95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.section1:hover{
+    color: palevioletred;
+}
+.hov1{
+    display: block;
+}
+.hov2{
+    display: none;
+}
+.hover:hover .hov1{
+    display: none;
+}
+.hover:hover .hov2{
+    display: block;
+}
+.badges{
+    position: absolute;
+    font-weight: bolder;
+    top: 25px;
+    left: 30px;
+    background-color: plum;
+    color: white;
+    width: 40px;
+    height: 25px;
+    font-size: 15px;
+}
+.section2:hover{
+    transform: scale(1.05);
+}
+.call{
+    width: 50%;
+    background-color: rgb(253, 212, 218);
+    border-radius: 15px;
+}
+.bgc{
+    background-color: white;
+}
+.btnshop{
+    background-color: rgb(227, 224, 224);
+    padding: 6px 20px;
+}
+.btnshop:hover{
+    background-color: lightgray;
+}
+.login{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.login:hover{
+    color: palevioletred;
+}
+.nav-link:hover{
+    color: palevioletred;
+}
+.section1{
+    color: rgb(3, 3, 95);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.section1:hover{
+    color: palevioletred;
+}
+.hov1{
+    display: block;
+}
+.hov2{
+    display: none;
+}
+.hover:hover .hov1{
+    display: none;
+}
+.hover:hover .hov2{
+    display: block;
+}
+.badges{
+    position: absolute;
+    font-weight: bolder;
+    top: 25px;
+    left: 30px;
+    background-color: plum;
+    color: white;
+    width: 40px;
+    height: 25px;
+    font-size: 15px;
+}
+.section2:hover{
+    transform: scale(1.05);
+}
+.btn2{
+    margin-top: 2%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 83%;
+    width: 10%;
+    color: white;
+    background-color: rgb(247, 171, 31);
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 3px;
+}
+.btn2:hover{
+    opacity: 90%;
+}
+.btn3{
+    margin-top: 2%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 39%;
+    width: 10%;
+    color: white;
+    background-color: rgb(247, 171, 31);
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 3px;
+}
+.btn3:hover{
+    opacity: 90%;
+}
+.btn4{
+    margin-top: 2%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    left: 55%;
+    top: 306%;
+    width: 8%;
+    color: white;
+    background-color: rgb(247, 171, 31);
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 3px;
+}
+.btn4:hover{
+    opacity: 90%;
+}
+.txt1{
+    padding: 10px 10px;
+    position: absolute;
+    top: 310%;
+    left: 79%;
+}
+.txt{
+    padding: 10px 10px;
+    position: absolute;
+    top: 310%;
+    left: 65%;
+}
+.bgabout{
+    background-color: rgb(239, 248, 252);
+}
+.send:hover{
+    opacity: 90%;
+}
+.inputsearch{
+    width: 20%;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+  }
+.inputsearch:focus {
+    width: 100%;
+}
