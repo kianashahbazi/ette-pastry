@@ -29,6 +29,15 @@
 .section1:hover{
     color: palevioletred;
 }
+.h1line::before,
+.h1line::after {
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid rgb(3, 3, 95);
+    width: 4rem;
+    margin: 0 1rem;
+    transform: translateY(-1rem);
+}
 .hov1{
     display: block;
 }
@@ -37,6 +46,7 @@
 }
 .hover:hover .hov1{
     display: none;
+
 }
 .hover:hover .hov2{
     display: block;
